@@ -1,0 +1,41 @@
+20 20 20
+1.0
+5e-06
+1
+300.0
+300.0
+12345
+0
+50000
+single 
+coarse 
+3490
+distinguished
+Int_dens_pore_size_BF4_EMIBF4_1Vpos.dat
+Int_dens_pore_size_EMI_EMIBF4_1Vpos.dat            
+solvent_OFF
+cation 
+Avg_shift_pore_size_coronene_EMI_1Vpos.dat 36.200
+Avg_shift_pore_size_circumcoronene_EMI_1Vpos.dat 98.100
+Avg_shift_pore_size_dicircumcoronene_EMI_1Vpos.dat 191.100
+discrete 
+mixed
+PSD-STC-8-micro.dat  36
+PSD-STC-8-meso.dat  53
+0.25
+lognormal                     
+-0.10 0.25
+1
+298.0
+0
+48.000 99.314 1.0
+87.000 111.092
+10000 1e-06
+wrtdns_on 10
+1e-20
+large
+
+
+
+
+
