@@ -1,7 +1,9 @@
 # LPC3D
 A code to do mesoscopic simulations of ions diffusing in carbon particles
 
-This code was written by Céline Merlet, Anouar Belhboub and Anagha Sasikumar and was used in four published works:
+This code was written by Céline Merlet, Anouar Belhboub and Anagha Sasikumar and was used in five published works:
+
+"Understanding the chemical shifts of aqueous electrolyte species adsorbed in carbon nanopores", J. Phys. Chem. Lett., 13, 8953 (2022), https://pubs.acs.org/doi/10.1021/acs.jpclett.2c02260
 
 "Mesoscopic simulations of the in situ NMR spectra of porous carbon based supercapacitors: Electronic structure and adsorbent reorganisation effects", Phys. Chem. Chem. Phys., 23, 15925 (2021), https://pubs.rsc.org/en/content/articlelanding/2021/cp/d1cp02130c/unauth#!divAbstract
 
