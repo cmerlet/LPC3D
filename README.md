@@ -14,3 +14,5 @@ This code was written by Céline Merlet, Anouar Belhboub and Anagha Sasikumar an
 "Lattice simulation method to model diffusion and NMR spectra in porous materials”, Merlet et al., J. Chem. Phys., 142, 094701 (2015), http://scitation.aip.org/content/aip/journal/jcp/142/9/10.1063/1.4913368
 
 Here, a manual and input files for the three different types of simulations are provided.
+
+A new version was uploaded on the 02/03/2023.
