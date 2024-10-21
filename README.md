@@ -1,7 +1,13 @@
 # LPC3D
 A code to do mesoscopic simulations of ions diffusing in carbon particles
 
-This code was written by Céline Merlet, Anouar Belhboub and Anagha Sasikumar and was used in five published works:
+This code was written by Céline Merlet, Anouar Belhboub and Anagha Sasikumar.
+
+This code was used in several published works:
+
+"Structural disorder determines capacitance in nanoporous carbon", Science, 384, 321 (2024), https://www.science.org/doi/10.1126/science.adn6242
+
+"Investigating particle size effects on NMR spectra of ions diffusing in porous carbons through a mesoscopic model", Solid State Nucl. Mag., 126, 101883 (2023), https://www.science.org/doi/10.1126/science.adn6242
 
 "Understanding the chemical shifts of aqueous electrolyte species adsorbed in carbon nanopores", J. Phys. Chem. Lett., 13, 8953 (2022), https://pubs.acs.org/doi/10.1021/acs.jpclett.2c02260
 
@@ -13,6 +19,6 @@ This code was written by Céline Merlet, Anouar Belhboub and Anagha Sasikumar an
 
 "Lattice simulation method to model diffusion and NMR spectra in porous materials”, Merlet et al., J. Chem. Phys., 142, 094701 (2015), http://scitation.aip.org/content/aip/journal/jcp/142/9/10.1063/1.4913368
 
-Here, a manual and input files for the three different types of simulations are provided.
+Here, a manual and input files for three different types of simulations (planar, porous and coarse) are provided.
 
-A new version was uploaded on the 02/03/2023.
+A new version was uploaded on the 12/09/2023.
